@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Trained models
+*.keras
+*.h5
+*.pth
+*.ckpt
+
+# Ignore large datasets
+data/*
+!data/README.md
+!data/test_samples/
+
+# Ignore results you don't want
+results/*
+!results/example/
+
+# Ignore temporary files
+*.tmp
