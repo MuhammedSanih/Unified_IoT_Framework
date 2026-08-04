@@ -1,0 +1,5 @@
+Timestamp,Input Type,Selected Model,Prediction,Confidence (%),Confidence Level,Recommended Action,Severity,Inference Time (ms)
+2026-08-01 22:03:37,image,CNN,cat,52.06,Low,Object Classified,N/A,931.31
+2026-08-01 22:03:37,network,RNN,Attack,100.0,Low,Raise Alert,Critical,395.89
+2026-08-01 22:03:37,image,CNN,ship,93.54,Low,Object Classified,N/A,95.96
+2026-08-01 22:03:38,network,RNN,Attack,100.0,Low,Raise Alert,Critical,109.77
